@@ -1,0 +1,84 @@
+{
+  "name": "finance-rag-chatbot-frontend",
+  "version": "1.0.0",
+  "description": "Modern React frontend for Finance RAG Chatbot",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-router-dom": "^6.3.0",
+    "axios": "^1.4.0",
+    "socket.io-client": "^4.7.2",
+    "recharts": "^2.7.2",
+    "lucide-react": "^0.263.1",
+    "framer-motion": "^10.12.16",
+    "react-hot-toast": "^2.4.1",
+    "react-query": "^3.39.3",
+    "date-fns": "^2.30.0",
+    "clsx": "^1.2.1",
+    "tailwind-merge": "^1.14.0",
+    "react-markdown": "^8.0.7",
+    "react-syntax-highlighter": "^15.5.0",
+    "react-use": "^17.4.0",
+    "zustand": "^4.3.9",
+    "immer": "^10.0.2",
+    "react-hook-form": "^7.45.4",
+    "react-select": "^5.7.6",
+    "react-dropzone": "^14.2.3",
+    "react-error-boundary": "^4.0.11",
+    "react-loading-skeleton": "^3.3.1",
+    "react-tooltip": "^5.18.1",
+    "react-modal": "^3.16.1",
+    "react-transition-group": "^4.4.5",
+    "react-spring": "^9.7.3",
+    "react-countup": "^6.4.2",
+    "react-calendar": "^4.2.1",
+    "react-colorful": "^5.6.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.15",
+    "@types/react-dom": "^18.2.7",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.18.38",
+    "typescript": "^4.9.5",
+    "tailwindcss": "^3.3.2",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.27",
+    "eslint": "^8.45.0",
+    "eslint-config-react-app": "^7.0.1",
+    "prettier": "^2.8.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src --ext .js,.jsx,.ts,.tsx",
+    "lint:fix": "eslint src --ext .js,.jsx,.ts,.tsx --fix",
+    "format": "prettier --write src/**/*.{js,jsx,ts,tsx,css,md,json}",
+    "type-check": "tsc --noEmit"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "proxy": "http://localhost:8000"
+} 
