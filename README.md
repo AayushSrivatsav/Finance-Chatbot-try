@@ -195,11 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS for styling
 - React team for the amazing framework
 
-## 📞 Support
-
-If you have any questions or need help:
-- Open an issue on GitHub
-- Contact: your-email@example.com
 
 ## 🔮 Roadmap
 
@@ -212,4 +207,14 @@ If you have any questions or need help:
 
 ---
 
-**Made with ❤️ by [Your Name]** 
+<img width="1428" height="775" alt="Screenshot 2025-09-12 at 20 36 54" src="https://github.com/user-attachments/assets/31280df2-0276-410c-86c8-41265878da90" />
+
+<img width="1433" height="772" alt="Screenshot 2025-09-12 at 20 37 08" src="https://github.com/user-attachments/assets/421ec9e7-cc7b-480d-b481-c6b6cd67e122" />
+
+<img width="1243" height="773" alt="Screenshot 2025-09-12 at 20 37 12" src="https://github.com/user-attachments/assets/03e24a69-21c2-48c4-8e7b-ed6450311525" />
+
+<img width="1420" height="760" alt="Screenshot 2025-09-12 at 20 37 38" src="https://github.com/user-attachments/assets/d56397ae-ce74-416d-bac2-4b6d95fb9281" />
+
+
+
+
